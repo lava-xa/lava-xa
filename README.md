@@ -1,7 +1,6 @@
 # 👋 Hi there
 
-我是 lava ，一个在读的大学生。
-喜欢计算机科学和 IT 互联网事业
+我是 lava ，一个普通人
 
 - [个人主页](blog.hajimai.com)
 
