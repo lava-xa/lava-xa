@@ -4,7 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,World;lava祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
+<img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif"
+width="100%"  height="2">
+
 </div>
+
+🤗 欢迎来访
 
 你好！ 我是 lava 
 
