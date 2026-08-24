@@ -9,6 +9,22 @@ width="100%"  height="2">
 
 </div>
 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/lava-xa/lava-xa/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/lava-xa/lava-xa/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/lava-xa/lava-xa/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 🤗 欢迎来访
 
 你好！ 我是 lava 
